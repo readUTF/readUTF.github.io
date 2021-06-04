@@ -1,0 +1,33 @@
+#contact {
+    padding-top: 20px;
+    width: 73px;
+    bottom: 0px;
+    background-color: none;
+    height: 90px;
+}
+
+#portfolio {
+    padding-top: 5px;
+    width: 73px;
+    bottom: 0px;
+    background-color: none;
+    height: 60px;
+}
+
+
+
+#home-img:hover {
+    background-color: rgba(173, 216, 230, 0.5);
+    cursor: pointer;
+}
+
+#portfolio-img:hover {
+    background-color: rgba(173, 216, 230, 0.5);
+    cursor: pointer;
+}
+
+#contact-img:hover {
+    background-color: rgba(173, 216, 230, 0.5);
+    cursor: pointer;
+}
+
